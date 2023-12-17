@@ -26,3 +26,7 @@ _Note: username: dfrws, password: dfrws-eu-2023-bonn-bpf-rootkits_
 In the memory forensics part, there are multiple exercises where you have to analyze memory images. [Download](https://owncloud.fraunhofer.de/index.php/s/IeriGoh60FXVpd9)
 
 To analyze them with Volatility you also need the corresponding symbol files. [Download](https://owncloud.fraunhofer.de/index.php/s/Zf74POYNrKvB7Xg)
+
+### Packet Captures
+
+Some exercises involve the analysis of pcap files. [Download](https://owncloud.fraunhofer.de/index.php/s/u5oG91ZP7HnUxJw)
