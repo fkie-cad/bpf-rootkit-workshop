@@ -1,0 +1,9 @@
+rule EmbeddedBpfElf
+{
+    strings:
+        $elf_bpf = { 7F 45 4C 46 [14] F7 00 }
+        $elf = { 7F 45 }
+
+    condition:
+        $elf at 0 and $elf_bpf in (1..filesize)
+}

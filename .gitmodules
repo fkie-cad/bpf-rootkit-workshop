@@ -4,3 +4,6 @@
 [submodule "live_forensics/materials/drgn"]
 	path = live_forensics/materials/drgn
 	url = https://github.com/osandov/drgn
+[submodule "memory_forensics/materials/BPFVol3"]
+	path = memory_forensics/materials/BPFVol3
+	url = https://github.com/vobst/BPFVol3
