@@ -1,3 +1,6 @@
 [submodule "introduction/materials/libbpf-bootstrap"]
 	path = introduction/materials/libbpf-bootstrap
 	url = https://github.com/libbpf/libbpf-bootstrap
+[submodule "live_forensics/materials/drgn"]
+	path = live_forensics/materials/drgn
+	url = https://github.com/osandov/drgn
