@@ -16,10 +16,8 @@ Certain workshop materials are unsuitable for storage in a git repository. Below
 
 In the slides we mention two virtual machines.
 
-- The Kali Linux VM contains these materials as well as all required third-party tools and can be used to complete the workshop if the operating system does not support BPF, e.g., in case you use a hardened Linux kernel or any other operating system (BSD, Mac, Windows...). [Download](https://pwn.dedyn.io/files/)
-- The Ubuntu VM is used during the live forensics exercise. [Download](https://pwn.dedyn.io/files/)
-
-_Note: username: dfrws, password: dfrws-eu-2023-bonn-bpf-rootkits_
+- The Kali Linux VM contains these materials as well as all required third-party tools and can be used to complete the workshop if the operating system does not support BPF, e.g., in case you use a hardened Linux kernel or any other operating system (BSD, Mac, Windows...). [Download](https://uni-bonn.sciebo.de/s/8r2QKoJccLQLeyo)
+- The Ubuntu VM is used during the live forensics exercise. [Download](https://uni-bonn.sciebo.de/s/8r2QKoJccLQLeyo)
 
 ### Memory Images and Symbols
 
