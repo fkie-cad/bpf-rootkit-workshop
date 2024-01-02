@@ -1,6 +1,6 @@
 # DFRWS EU 2023 Workshop: Forensic Analysis of eBPF based Linux Rootkits
 
-Materials for the Workshop [_Forensic Analysis of eBPF based Linux Rootkits_](https://dfrws.org/forensic-analysis-of-ebpf-based-linux-rootkits/) that our colleagues [Martin Clauß](https://github.com/martinclauss/) and [Valentin Obst](https://github.com/vobst) gave at the DFRWS EU 2023 conference. We have published a blog post that covers some of the materials [here](https://blog.eb9f.de/2023/12/21/bpf_memory_forensics_with_volatility_3.html), and the presented Volatility 3 plugins are available [here](https://github.com/vobst/BPFVol3).
+Materials for the Workshop [_Forensic Analysis of eBPF based Linux Rootkits_](https://dfrws.org/forensic-analysis-of-ebpf-based-linux-rootkits/) that our colleagues [Martin Clauß](https://github.com/martinclauss/) and [Valentin Obst](https://github.com/vobst) gave at the DFRWS EU 2023 conference. We have published a blog post that covers some of the materials [here](https://lolcads.github.io/posts/2023/12/bpf_memory_forensics_with_volatility3/), and the presented Volatility 3 plugins are available [here](https://github.com/vobst/BPFVol3).
 
 ## Structure
 
